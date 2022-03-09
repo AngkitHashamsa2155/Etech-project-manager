@@ -17,7 +17,7 @@ module.exports = {
   rules: {},
   settings: {
     react: {
-      version: "latest"
+      version: "^17.0.2"
     }
   }
 };
