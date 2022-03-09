@@ -7,3 +7,4 @@ src/react-app-env.d.ts
 src/reportWebVitals.ts
 .storybook
 .config
+build/*
